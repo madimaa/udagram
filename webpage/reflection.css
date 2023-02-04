@@ -1,0 +1,29 @@
+
+/* The content of this CSS originated from: https://codepen.io/l-e-e/pen/gOKJyqa */
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Fredoka One', cursive;
+}
+
+p {
+  color:#581845;
+  font-size:80px;
+}
+
+div > :last-child {
+	transform: rotatex(180deg) translatey(15px);
+  -webkit-mask-image: linear-gradient(transparent 40%, white 90%);
+  mask-image: linear-gradient(transparent 50%, white 90%);
+	opacity: 0.7;
+}

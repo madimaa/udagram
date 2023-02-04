@@ -1,0 +1,26 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdagramProject"
+    },
+    {
+        "ParameterKey": "VpcCIDR",
+        "ParameterValue": "10.1.0.0/16"
+    },
+	{
+		"ParameterKey": "PublicSubnet01CIDR",
+		"ParameterValue": "10.1.0.0/24"
+	},
+	{
+		"ParameterKey": "PublicSubnet02CIDR",
+		"ParameterValue": "10.1.1.0/24"
+	},
+	{
+		"ParameterKey": "PrivateSubnet01CIDR",
+		"ParameterValue": "10.1.2.0/24"
+	},
+	{
+		"ParameterKey": "PrivateSubnet02CIDR",
+		"ParameterValue": "10.1.3.0/24"
+	}
+]
