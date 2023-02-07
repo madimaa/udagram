@@ -8,4 +8,4 @@ This repository contains files for Udacity's Cloud DevOps Engineer Nanodegree Pr
 
 ## CloudFormation
 
-The output url for the LoadBalancer is http://udagr-webap-v6i7un69820u-1533393405.us-east-1.elb.amazonaws.com
+The output url for the LoadBalancer is [not here](http://udagr-webap-v6i7un69820u-1533393405.us-east-1.elb.amazonaws.com) anymore.
